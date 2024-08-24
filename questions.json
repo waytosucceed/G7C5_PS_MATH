@@ -1,0 +1,237 @@
+{
+  "heading": "Fractions",
+  "topics": [
+    {
+      "heading": "Fractions",
+      "questions": [
+        {
+            "questionNo": 1,
+            "question": "What fraction of the shape is red?",
+            "options": [
+                "3/6",
+                "6/3",
+                "3/7",
+                "None of the above"
+            ],
+            "answer": 0,
+            "image":"./assests/images/1.jpg"
+        },
+        {
+            "questionNo": 2,
+            "question": "What is the improper fraction represented by the shaded parts in the image?",
+            "options": [
+                "5/3",
+                "2/3",
+                "1/5",
+                "1/3"
+            ],
+            "answer": 0,
+            "image":"./assests/images/2.jpg"
+        },
+        {
+            "questionNo": 3,
+            "question": "What do we call the fractions with the numerator equal to 1?",
+            "options": [
+                "Proper fractions",
+                "Improper fractions",
+                "Unit fractions",
+                "Equivalent fractions"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 4,
+            "question": "While reading, Gilly found a fraction book that explained like fractions. Which of these pairs are like fractions?",
+            "options": [
+                "41/99 and 99/31",
+                "22/99 and 99/88",
+                "41/99 and 31/99",
+                "55/66 and 77/88"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 5,
+            "question": "What fraction of the shapes are stars?",
+            "options": [
+                "5/13",
+                "4/13",
+                "13/5",
+                "13/4"
+            ],
+            "answer": 0,
+            "image":"./assests/images/3.jpg"
+        },
+        {
+            "questionNo": 6,
+            "question": "Find out what part of the fraction of the given shape is purple and then choose the correct option that determines its type.",
+            "options": [
+                "Improper fraction",
+                "Like fraction",
+                "Unit fraction",
+                "None of the above"
+            ],
+            "answer": 2,
+            "image":"./assests/images/7.jpg"
+        },
+        {
+            "questionNo": 7,
+            "question": "Find the fraction of the shapes that are triangles and choose the option that tells what type of fraction it is.",
+            "options": [
+                "Proper fraction",
+                "Improper fraction",
+                "Unlike fraction",
+                "Like fraction"
+            ],
+            "answer": 0,
+            "image":"./assests/images/4.jpg"
+        },
+        {
+            "questionNo": 8,
+            "question": "Luke picked a book about the like fractions. Do all 3 rectangles represent a pair of like fractions?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 0,
+            "image":"./assests/images/5.jpg"
+        },
+        {
+            "questionNo": 9,
+            "question": "To check Gilly's understanding of fractions, Luke asked her to answer which among the following is a proper fraction.",
+            "options": [
+                "734/729",
+                "717/716",
+                "725/750",
+                "715/712"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 10,
+            "question": "Gilly picked a book about the unlike fractions. Do all 3 rectangles represent a pair of the unlike fractions?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1,
+            "image":"./assests/images/6.jpg"
+        },
+        {
+            "questionNo": 11,
+            "question": "Which of the following fractions is NOT an improper fraction?",
+            "options": [
+                "55/44",
+                "32/23",
+                "12/22",
+                "41/37"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 12,
+            "question": "How many unit fractions can be formed with a denominator of 71?",
+            "options": [
+                "0",
+                "1",
+                "71",
+                "None of the above"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 13,
+            "question": "Gilly asked Juke can he tell which among these fractions are the improper fractions: 117/104, 119/103, 115/102?",
+            "options": [
+                "117/104",
+                "119/103",
+                "115/102",
+                "All of the above"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 14,
+            "question": "Help Gilly in finding out what type of fraction is 778/628.",
+            "options": [
+                "Like Fraction",
+                "Unlike Fraction",
+                "Improper Fraction",
+                "Proper Fraction"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 15,
+            "question": "Gilly asked Juke can he tell which among these fractions 667/664, 711/663, 635/612, 725/668 are the proper fractions.",
+            "options": [
+                "711/663",
+                "725/668",
+                "None of the above",
+                "All of the above"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 16,
+            "question": "Luke wanted to test his knowledge of unit fractions. Which of the given fractions is a unit fraction?",
+            "options": [
+                "3/677",
+                "2/675",
+                "11/675",
+                "1/677"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 17,
+            "question": "Luke picked a book about the like fractions. Which pair represents the like fractions?",
+            "options": [
+                "200/500 and 400/300",
+                "500/600 and 300/400",
+                "100/200 and 300/600",
+                "200/300 and 400/300"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 18,
+            "question": "What type of fraction is 245/244?",
+            "options": [
+                "Proper fraction",
+                "Improper fraction",
+                "Unlike fraction",
+                "Unit fraction"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 19,
+            "question": "Luke picked a book about the unlike fractions. Which pair represents the unlike fractions?",
+            "options": [
+                "112/345 and 412/345",
+                "247/789 and 312/798",
+                "134/922 and 135/922",
+                "199/300 and 299/300"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 20,
+            "question": "In the library, Luke found a question, Which fraction is the proper fraction among: 922/411 or 411/922?",
+            "options": [
+                "922/411",
+                "411/922",
+                "They are equal",
+                "Cannot be determined"
+            ],
+            "answer": 1
+        }
+    ]
+    
+    
+    
+    
+    }
+  ]
+}
